@@ -8,8 +8,9 @@ This is a simple notes app developed using Android Studio.
 
 ## Screenshots
 
-![Screenshot 1](/path/to/screenshot1.png)
-![Screenshot 2](/path/to/screenshot2.png)
+| Notes Home | Notes Edit & save |
+|--------------|--------------|
+| <img src="https://github.com/rajarohan/ss/blob/main/Notes_Home.png" alt="Screenshot 1" width="400" /> | <img src="https://github.com/rajarohan/ss/blob/main/Edit_notes.png" alt="Screenshot 2" width="400" /> |
 
 ## Installation
 
